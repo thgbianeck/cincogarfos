@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Cinco Garfos",
+    "githubUrl": "https://github.com/thgbianeck/cincogarfos"
   }
 }
